@@ -152,8 +152,4 @@ The Streamlit app loads the trained model and vectorizer for prediction.
 
 GitHub: https://github.com/sumitrathod79228-cyber
 
----
 
-# 📄 License
-
-This project is open-source and available under the MIT License.
