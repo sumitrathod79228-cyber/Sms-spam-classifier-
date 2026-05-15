@@ -12,7 +12,39 @@ A Machine Learning based web application that classifies Email/SMS messages as *
 - Machine Learning prediction
 - Real-time classification
 
----
+## 📈 Accuracy Improvement
+
+To improve the accuracy of the spam classifier, different Machine Learning algorithms can be tested and compared.
+
+### Algorithms Used for Improvement
+
+- Naive Bayes
+- Logistic Regression
+- Support Vector Machine (SVM)
+- Random Forest
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+
+### Techniques Used
+
+- TF-IDF Vectorization
+- Text Preprocessing
+- Stopword Removal
+- Stemming
+- Hyperparameter Tuning
+- Feature Selection
+
+### Future Optimization
+
+- Use larger datasets
+- Apply GridSearchCV for parameter tuning
+- Use ensemble learning methods
+
+The best-performing algorithm was selected based on:
+- Accuracy Score
+- Precision
+- Recall
+- F1-Score
 
 ## 🛠️ Technologies Used
 
@@ -26,7 +58,8 @@ A Machine Learning based web application that classifies Email/SMS messages as *
 
 ## 📸 Application Preview
 
-<img width="100%" alt="Spam Classifier App" src="https://via.placeholder.com/1200x600.png?text=Email%2FSMS+Spam+Classifier">
+
+<img src="screenshot.png" alt="Spam Classifier Screenshot" width="100%">
 
 ---
 
